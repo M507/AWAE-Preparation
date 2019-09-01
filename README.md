@@ -9,19 +9,19 @@ Being able to understand and debug different languages like C#, Php, Java, and J
 
 * #### Cross-Site Scripting:
     * https://xhr.spec.whatwg.org/
-          * Session Hijacking 
-          * https://popped.io/hijacking-sessions-using-socat/
-          * https://pentesterlab.com/exercises/xss_and_mysql_file/course
-          * Session Hijacking 
-          * https://popped.io/hijacking-sessions-using-socat/
-          * https://pentesterlab.com/exercises/xss_and_mysql_file/course
-          * Persistent Cross-Site Scripting
-          * https://www.acunetix.com/blog/articles/persistent-xss/
-          * https://portswigger.net/web-security/cross-site-scripting
-          * Cross-Site Request Forgery
-          * https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html 
-          * XSS and MySQL
-          * https://www.vulnhub.com/entry/pentester-lab-xss-and-mysql-file,66/
+    * Session Hijacking 
+    * https://popped.io/hijacking-sessions-using-socat/
+    * https://pentesterlab.com/exercises/xss_and_mysql_file/course
+    * Session Hijacking 
+    * https://popped.io/hijacking-sessions-using-socat/
+    * https://pentesterlab.com/exercises/xss_and_mysql_file/course
+    * Persistent Cross-Site Scripting
+    * https://www.acunetix.com/blog/articles/persistent-xss/
+    * https://portswigger.net/web-security/cross-site-scripting
+    * Cross-Site Request Forgery
+    * https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html 
+    * XSS and MySQL
+    * https://www.vulnhub.com/entry/pentester-lab-xss-and-mysql-file,66/
 
 * #### Bypassing File Upload Restrictions:
     * https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf
