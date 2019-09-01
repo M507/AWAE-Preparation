@@ -10,18 +10,18 @@ Being able to understand and debug different languages like C#, Php, Java, and J
 * #### Cross-Site Scripting:
     * https://xhr.spec.whatwg.org/
           * Session Hijacking 
-                * https://popped.io/hijacking-sessions-using-socat/
-                * https://pentesterlab.com/exercises/xss_and_mysql_file/course
-           * Session Hijacking 
-                 * https://popped.io/hijacking-sessions-using-socat/
-                 * https://pentesterlab.com/exercises/xss_and_mysql_file/course
-           * Persistent Cross-Site Scripting
-                 * https://www.acunetix.com/blog/articles/persistent-xss/
-                 * https://portswigger.net/web-security/cross-site-scripting
-           * Cross-Site Request Forgery
-                 * https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html 
-           * XSS and MySQL
-                * https://www.vulnhub.com/entry/pentester-lab-xss-and-mysql-file,66/
+          * https://popped.io/hijacking-sessions-using-socat/
+          * https://pentesterlab.com/exercises/xss_and_mysql_file/course
+          * Session Hijacking 
+          * https://popped.io/hijacking-sessions-using-socat/
+          * https://pentesterlab.com/exercises/xss_and_mysql_file/course
+          * Persistent Cross-Site Scripting
+          * https://www.acunetix.com/blog/articles/persistent-xss/
+          * https://portswigger.net/web-security/cross-site-scripting
+          * Cross-Site Request Forgery
+          * https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html 
+          * XSS and MySQL
+          * https://www.vulnhub.com/entry/pentester-lab-xss-and-mysql-file,66/
 
 * #### Bypassing File Upload Restrictions:
     * https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf
@@ -89,4 +89,4 @@ https://www.nccgroup.trust/globalassets/our-research/uk/images/whitepaper-new.pd
     * https://www.blackhat.com/docs/us-17/thursday/us-17-Munoz-Friday-The-13th-JSON-Attacks-wp.pdf
 
 ## Before the exam:
-_The Web Application Hacker's Handbook_** is your friend. The negative part of AWAE course is that they did not include enough methodologies for vulnerability discovery, thus, I strongly recommend reading Chapter 21 from _The Web Application Hacker's Handbook_** , and be comfortable debugging C#, Java, Php, and Javascript, using Burp Suite, dnSpy, JD-GUI, Visual Studio, and writing custom PoC in at least one language :).
+**The Web Application Hacker's Handbook** is your friend. The negative part of AWAE course is that they did not include enough methodologies for vulnerability discovery, thus, I strongly recommend reading Chapter 21 from **The Web Application Hacker's Handbook** , and be comfortable debugging C#, Java, Php, and Javascript, using Burp Suite, dnSpy, JD-GUI, Visual Studio, and writing custom PoC in at least one language :).
