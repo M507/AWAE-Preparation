@@ -9,18 +9,18 @@ Being able to understand and debug different languages like C#, Php, Java, and J
 
 * #### Cross-Site Scripting:
     * https://xhr.spec.whatwg.org/
-    * Session Hijacking 
+* Session Hijacking 
     * https://popped.io/hijacking-sessions-using-socat/
     * https://pentesterlab.com/exercises/xss_and_mysql_file/course
-    * Session Hijacking 
+* Session Hijacking 
     * https://popped.io/hijacking-sessions-using-socat/
     * https://pentesterlab.com/exercises/xss_and_mysql_file/course
-    * Persistent Cross-Site Scripting
+* Persistent Cross-Site Scripting
     * https://www.acunetix.com/blog/articles/persistent-xss/
     * https://portswigger.net/web-security/cross-site-scripting
-    * Cross-Site Request Forgery
+* Cross-Site Request Forgery
     * https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html 
-    * XSS and MySQL
+* XSS and MySQL
     * https://www.vulnhub.com/entry/pentester-lab-xss-and-mysql-file,66/
 
 * #### Bypassing File Upload Restrictions:
@@ -29,6 +29,18 @@ Being able to understand and debug different languages like C#, Php, Java, and J
     * https://www.owasp.org/index.php/Unrestricted_File_Upload
     * Popcorn machine from HackTheBox
     * Vault machine from HackTheBox
+
+* #### PHP Type Juggling:
+    * https://www.owasp.org/images/6/6b/PHPMagicTricks-TypeJuggling.pdf 
+    * https://medium.com/@Q2hpY2tlblB3bnk/php-type-juggling-c34a10630b10 
+    * https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/
+    * https://www.netsparker.com/blog/web-security/php-type-juggling-vulnerabilities/
+    * http://turbochaos.blogspot.com/2013/08/exploiting-exotic-bugs-php-type-juggling.html
+    * https://www.netsparker.com/blog/web-security/type-juggling-authentication-bypass-cms-made-simple/
+    * https://www.php.net/manual/en/types.comparisons.php
+    * https://github.com/spaze/hashes
+    * https://www.whitehatsec.com/blog/magic-hashes/
+    * Falafel machine from HackTheBox
 
 * #### Deserialization:
     * https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html
@@ -59,29 +71,17 @@ Being able to understand and debug different languages like C#, Php, Java, and J
     * https://github.com/ajinabraham/Node.Js-Security-Course
     * Celestial machine from HackTheBox
 
-* #### PHP Type Juggling:
-    * https://www.owasp.org/images/6/6b/PHPMagicTricks-TypeJuggling.pdf 
-    * https://medium.com/@Q2hpY2tlblB3bnk/php-type-juggling-c34a10630b10 
-    * https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/
-    * https://www.netsparker.com/blog/web-security/php-type-juggling-vulnerabilities/
-    * http://turbochaos.blogspot.com/2013/08/exploiting-exotic-bugs-php-type-juggling.html
-    * https://www.netsparker.com/blog/web-security/type-juggling-authentication-bypass-cms-made-simple/
-    * https://www.php.net/manual/en/types.comparisons.php
-    * https://github.com/spaze/hashes
-    * https://www.whitehatsec.com/blog/magic-hashes/
-    * Falafel machine from HackTheBox
-
-* #### SQL:
+* #### SQLi:
     * https://pentesterlab.com/exercises/from_sqli_to_shell/course
     * https://www.acunetix.com/websitesecurity/blind-sql-injection/
-    * ##### PostgreSQL
-          * http://pentestmonkey.net/cheat-sheet/sql-injection/postgres-sql-injection-cheat-sheet
-          * http://www.leidecker.info/pgshell/Having_Fun_With_PostgreSQL.txt
-          * https://www.exploit-db.com/papers/13084
-          * http://www.postgresqltutorial.com/postgresql-string-functions/ 
-          * https://www.linuxtopia.org/online_books/database_guides/Practical_PostgreSQL_database/c7547_002.htm
-          * https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf
-          * https://dotcppfile.wordpress.com/2014/07/12/blind-postgresql-sql-injection-tutorial/
+* #### PostgreSQL
+* http://pentestmonkey.net/cheat-sheet/sql-injection/postgres-sql-injection-cheat-sheet
+    * http://www.leidecker.info/pgshell/Having_Fun_With_PostgreSQL.txt
+    * https://www.exploit-db.com/papers/13084
+    * http://www.postgresqltutorial.com/postgresql-string-functions/ 
+    * https://www.linuxtopia.org/online_books/database_guides/Practical_PostgreSQL_database/c7547_002.htm
+    * https://www.infigo.hr/files/INFIGO-TD-2009-04_PostgreSQL_injection_ENG.pdf
+    * https://dotcppfile.wordpress.com/2014/07/12/blind-postgresql-sql-injection-tutorial/
 
 * #### Long Readings:
     * Use of Deserialization in .NET Framework Methods and Classes.
