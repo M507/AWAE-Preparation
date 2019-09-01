@@ -10,7 +10,7 @@ Being able to understand and debug different languages like C#, Php, Java, and J
 * #### Cross-Site Scripting:
     * https://xhr.spec.whatwg.org/
     * Session Hijacking 
-    * https://popped.io/hijacking-sessions-using-socat/
+          * https://popped.io/hijacking-sessions-using-socat/
     * https://pentesterlab.com/exercises/xss_and_mysql_file/course
     * Session Hijacking 
     * https://popped.io/hijacking-sessions-using-socat/
