@@ -3,7 +3,7 @@ This repository will contain all trainings and tutorials I have done/read to pre
 
 ### Before AWAE:
 I would not recommend taking the course before at least; finishing all SQL and XSS Injection challenges in bWAPP
-https://sourceforge.net/projects/bwapp/files/bee-box/ and being able to understand and debug different languages like C#, Php, Java, and Javascript. 
+https://sourceforge.net/projects/bwapp/files/bee-box/ and being able to understand and debug different languages like **C#, Php, Java, and Javascript. 
 
 * #### Cross-Site Scripting:
    * https://xhr.spec.whatwg.org/
