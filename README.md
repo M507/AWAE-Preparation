@@ -2,10 +2,8 @@
 This repository will contain all trainings and tutorials I have done/read to prepare for OSWE.
 
 ### Before AWAE:
-I would not recommend taking the course before at least:
-Finishing all SQL and XSS Injection challenges in bWAPP:
-https://sourceforge.net/projects/bwapp/files/bee-box/ 
-Being able to understand and debug different languages like C#, Php, Java, and Javascript. 
+I would not recommend taking the course before at least; finishing all SQL and XSS Injection challenges in bWAPP
+https://sourceforge.net/projects/bwapp/files/bee-box/ and being able to understand and debug different languages like C#, Php, Java, and Javascript. 
 
 * #### Cross-Site Scripting:
    * https://xhr.spec.whatwg.org/
