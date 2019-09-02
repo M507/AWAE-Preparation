@@ -64,6 +64,8 @@ https://sourceforge.net/projects/bwapp/files/bee-box/ and being able to understa
 * #### NodeJS:
    * https://maikthulhu.github.io/2019-05-17-remote-debugging-node-vscode/
    * https://github.com/ajinabraham/Node.Js-Security-Course
+   * https://www.acunetix.com/blog/web-security-zone/deserialization-vulnerabilities-attacking-deserialization-in-js/
+   * https://www.yeahhub.com/nodejs-deserialization-attack-detailed-tutorial-2018/
    * Celestial machine from HackTheBox
 
 * #### SQLi:
