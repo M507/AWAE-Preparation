@@ -10,9 +10,6 @@ https://sourceforge.net/projects/bwapp/files/bee-box/ and being able to understa
 * Session Hijacking 
    * https://popped.io/hijacking-sessions-using-socat/
    * https://pentesterlab.com/exercises/xss_and_mysql_file/course
-* Session Hijacking 
-   * https://popped.io/hijacking-sessions-using-socat/
-   * https://pentesterlab.com/exercises/xss_and_mysql_file/course
 * Persistent Cross-Site Scripting
    * https://www.acunetix.com/blog/articles/persistent-xss/
    * https://portswigger.net/web-security/cross-site-scripting
