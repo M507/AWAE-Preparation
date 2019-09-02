@@ -87,3 +87,5 @@ https://www.nccgroup.trust/globalassets/our-research/uk/images/whitepaper-new.pd
 
 ## Before the exam:
 **The Web Application Hacker's Handbook** is your friend. The negative part of AWAE course is that they did not include enough methodologies for vulnerability discovery, thus, I strongly recommend reading Chapter 21 from **The Web Application Hacker's Handbook** , and be comfortable debugging C#, Java, Php, and Javascript, using Burp Suite, dnSpy, JD-GUI, Visual Studio, and writing custom PoC in at least one language :).
+
+🐦 Twitter.com/mohdcsec
