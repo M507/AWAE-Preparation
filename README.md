@@ -7,15 +7,15 @@ https://sourceforge.net/projects/bwapp/files/bee-box/ and being able to understa
 
 * #### Cross-Site Scripting:
    * https://xhr.spec.whatwg.org/
-* Session Hijacking 
+* #### Session Hijacking 
    * https://popped.io/hijacking-sessions-using-socat/
    * https://pentesterlab.com/exercises/xss_and_mysql_file/course
-* Persistent Cross-Site Scripting
+* #### Persistent Cross-Site Scripting
    * https://www.acunetix.com/blog/articles/persistent-xss/
    * https://portswigger.net/web-security/cross-site-scripting
-* Cross-Site Request Forgery
+* #### Cross-Site Request Forgery
    * https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html 
-* XSS and MySQL
+* #### XSS and MySQL
    * https://www.vulnhub.com/entry/pentester-lab-xss-and-mysql-file,66/
 
 * #### Bypassing File Upload Restrictions:
