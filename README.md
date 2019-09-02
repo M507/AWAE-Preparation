@@ -1,6 +1,9 @@
 # AWAE-Preparation
 This repository will contain all trainings and tutorials I have done/read to prepare for OSWE.
 
+### course syllabus:
+https://www.offensive-security.com/documentation/awae-syllabus.pdf
+
 ### Before AWAE:
 I would not recommend taking the course before at least; finishing all SQL and XSS Injection challenges in bWAPP
 https://sourceforge.net/projects/bwapp/files/bee-box/ and being able to understand and debug different languages like **C#, Php, Java, and Javascript**.
@@ -88,4 +91,4 @@ https://www.nccgroup.trust/globalassets/our-research/uk/images/whitepaper-new.pd
 ## Before the exam:
 **The Web Application Hacker's Handbook** is your friend. The negative part of AWAE course is that they did not include enough methodologies for vulnerability discovery, thus, I strongly recommend reading Chapter 21 from **The Web Application Hacker's Handbook** , and be comfortable debugging C#, Java, Php, and Javascript, using Burp Suite, dnSpy, JD-GUI, Visual Studio, and writing custom PoC in at least one language :).
 
-🐦 Twitter.com/mohdcsec
+🐦 [@Mohdcsec](http://twitter.com/mohdcsec "@Mohdcsec")
