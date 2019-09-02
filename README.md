@@ -1,7 +1,7 @@
 # AWAE-Preparation
 This repository will contain all trainings and tutorials I have done/read to prepare for OSWE.
 
-### course syllabus:
+### Course syllabus:
 https://www.offensive-security.com/documentation/awae-syllabus.pdf
 
 ### Before AWAE:
